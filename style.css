@@ -57,8 +57,35 @@ p.quotes {
 a {
   text-decoration: none;
 }
-@media (min-width: 375px) {
+@media (min-width: 573px) {
   .first-layer {
-    width: 38%;
+    width: 60%;
+  }
+}
+@media (min-width: 470) {
+  .first-layer {
+    width: 55%;
+  }
+}
+@media (min-width: 768px) {
+  .first-layer {
+    width: 50%;
+  }
+}
+@media (min-width: 1024px) {
+  .first-layer {
+    width: 40%;
+    height: 40%;
+  }
+}
+@media (min-width: 1326px) {
+  .first-layer {
+    width:
+  }
+}
+@media (min-width: 1440px) {
+  .first-layer {
+    width: 10%;
+    height: 10%;
   }
 }
